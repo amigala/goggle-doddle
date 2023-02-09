@@ -1,12 +1,5 @@
-# Web Design 2 Starter
+# Doddle Topic
 
-![Web 2 Starter](web2.webp)
+My doddle is about 
 
-> Computers are dumb. Humans make them smart.
-
-Starter (boilerplate) for all future projects.
-
-## Why Does This Exist?
-* Don't with blank files
-* Common boilerplate for web projects
-* I am a human being who makes mistakes
+#Citations
