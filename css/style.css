@@ -1,6 +1,18 @@
 /* Stage */
 #stage {
-    background: #ccc;
+    background: #FCD6D5;
     height: 300px;
     width: 600px;
+    padding: 20px;
+    display: grid;
+    align-content: center;
+    justify-content: center;
   }
+
+  .heart1
+{
+  padding: 10px;
+}
+.heart3{
+  padding: 18px;
+}
